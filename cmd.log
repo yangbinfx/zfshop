@@ -5,3 +5,20 @@ touch .gitignore
 bower install bootstrap
 bower install angular angular-route --save
 doskey /history >> cmd.log
+npm init
+touch .bowerrc
+bower init
+touch .gitignore
+bower install bootstrap
+bower install angular angular-route --save
+doskey /history >> cmd.log
+bower install bootstrap --save
+npm install express --save
+git init
+git remote add origin https://github.com/yangbinfx/zfshop.git
+git push -u origin master
+git add .
+git commit
+git commit -m "³õÊ¼»¯"
+git push -u origin master
+doskey /history >> cmd.log
