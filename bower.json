@@ -1,0 +1,24 @@
+{
+  "name": "zhufenshop",
+  "description": "node net shop zhufeng",
+  "main": "index.js",
+  "authors": [
+    "yangbin94 <yangbin5@jd.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/lib",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
+}
